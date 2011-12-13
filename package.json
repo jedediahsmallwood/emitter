@@ -1,0 +1,10 @@
+{
+  "name": "emitter",
+  "version": "0.0.1",
+  "description": "A set of emitters for importing data into cube",
+  "keywords": ["time series", "import"],
+  "main": "./js",
+  "dependencies": {
+    "websocket": "1.0.2"
+  }
+}
